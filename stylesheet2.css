@@ -3,3 +3,10 @@
 body {
   font-family: 'Montserrat', sans-serif;
 }
+
+h1 {
+  font-style: italic;
+  font-size: 50px;
+}
+
+
