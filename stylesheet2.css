@@ -32,6 +32,10 @@ p {
   color: #230A53;
 }
 
+.pikabob {
+  height: 50%;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #724B7C;
