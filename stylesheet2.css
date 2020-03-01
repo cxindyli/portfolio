@@ -33,7 +33,12 @@ p {
 }
 
 .pikabob {
-  height: 50%;
+  width: 45%;
+}
+
+.eevee {
+  width: 45%;
+  float: right;
 }
 
 .navbar {
