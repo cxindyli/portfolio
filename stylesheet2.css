@@ -24,9 +24,19 @@ body {
 h1 {
   font-style: italic;
   font-size: 50px;
-  color: #597BA2;
   border: 5px dotted red;
+  color: red;
+  animation-name: bigheadinganim;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
+
+@keyframes bigheadinganim {
+  0% {background-color: red;}
+  50% {background-color: yellow;}
+  100% {background-color: red;}
+}
+
 
 p {
   color: #230A53;
