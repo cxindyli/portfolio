@@ -32,9 +32,9 @@ h1 {
 }
 
 @keyframes bigheadinganim {
-  0% {background-color: red;}
-  50% {background-color: yellow;}
-  100% {background-color: red;}
+  0% {color: red;}
+  50% {color: #AB9BFF;}
+  100% {color: red;}
 }
 
 
